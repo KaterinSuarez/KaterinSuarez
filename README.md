@@ -1,1 +1,5 @@
 ### Hola a todos mi nombre es Katerin
+
+##Mis estadisticas son:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaterinSuarez)]
