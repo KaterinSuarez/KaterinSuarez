@@ -25,3 +25,99 @@
 ### 💻 Ultimos videos de Youtube
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+<!--heading -->
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+---
+
+<!--Italicas -->
+Hola soy un texto normal
+
+\*Hola soy un texto italica 1\*
+
+_Hola soy un texto italica 2_
+
+**Hola soy un texto bold 1**
+
+__Hola soy un texto bold 2__
+
+<!--Tachar texto-->
+
+~~200~~ 199
+
+> Esta es una cita
+<!--links -->
+[Youtube](https://www.youtube.com/)
+
+[Youtube](https://www.youtube.com/ "Visita mi canal")
+
+<!--Listas desordenadas -->
+* Item 1
+    * Hola
+* Item 2
+    * Saludos
+        * adios
+            * 5 estrellas
+* Item 3
+* Item 4
+
+
+1. Item 1
+1. Item 2
+1. Item 3
+1. Item 4
+
+<!--Agregar código -->
+
+Para iniciar un archivo en C se tiene que agregar `#include <stdio.h>` para incluir la biblioteca estandar
+
+<!--Bloque de codigo -->
+```
+Agrega esto a tu proyecto para que funcione de manera correcta
+```
+
+<!--Imagenes -->
+![Logo Youtube](https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg)
+
+<!--Git Hub Markdown -->
+
+```
+    nmp install
+    npm start
+```
+
+<!--Resaltar el lenguaje -->
+```java
+    public class Persona{
+        protected int edad;
+    }
+```
+
+```c
+    #include <stdio.h>
+    int main(){
+
+    }
+```
+
+```Python
+    def add(num1, num2):
+        return num1+num2
+```
+
+<!--Tablas -->
+|Nombre   |Edad|
+|---------|----|
+|Jorge    | 20 |
+|Ricardo  | 19 |
+
+<!--Lista de tareas -->
+* [X] Task 1
+* [ ] Task 2
